@@ -1,6 +1,6 @@
 # Atliq Hardwares - SQL Challenge Analysis
 
-## Introduction
+## Problem Statement
 
 Atliq Hardwares, an imaginary leading computer hardware producer in India, and expanding in other countries, recognizes the need for data-informed decision-making. To enhance their data analytics capabilities, Tony Sharma, the Data Analytics Director, initiated a SQL challenge to evaluate potential junior data analysts based on their technical and soft skills.
 
